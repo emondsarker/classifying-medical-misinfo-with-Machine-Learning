@@ -4,3 +4,7 @@ The increasing use of social media provides an outlet for the dissemination of h
 This project utilizes Bangla text data and its English Translations to classify health misinformation from mined social media data, using machine learning models. Multiple models were used such as Naive Bayes, Ensemble learning, SVM, etc, and Deep learning models such as Transformers and LSTMs. 
 
 The highest reported accuracy in Bangla text is 65% using LSTM while it’s 80% on the English text using ensemble learning.
+
+# Web Application
+The front end 
+![homepage](./readme_assets/homepage.png)
