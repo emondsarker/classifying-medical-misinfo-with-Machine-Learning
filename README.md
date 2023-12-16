@@ -5,6 +5,9 @@ This project utilizes Bangla text data and its English Translations to classify 
 
 The highest reported accuracy in Bangla text is 65% using LSTM while it’s 80% on the English text using ensemble learning.
 
+Paper Link: https://ieeexplore.ieee.org/document/10327937?fbclid=IwAR1D2BFqca6sCKAbA4BtTsMSNXEpWYa3bOJQ9i3DOtYG4mIOnk87Jg-ifKc
+Presentation Link: https://www.youtube.com/watch?v=PQuoWL5HjKE
+
 # Web Application
 The front end 
 ![homepage](./readme_assets/homepage.png)
